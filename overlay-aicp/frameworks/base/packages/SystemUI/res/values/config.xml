@@ -33,4 +33,7 @@
     <!-- Show camera affordance on Keyguard -->
     <bool name="config_keyguardShowCameraAffordance">true</bool>
 
+    <!-- Power Menu Columns in Portrait Mode -->
+    <integer name="power_menu_max_columns">4</integer>
+
 </resources>
