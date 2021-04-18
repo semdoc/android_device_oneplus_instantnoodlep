@@ -23,10 +23,6 @@
     <!-- Color of the FOD view -->
     <color name="config_fodColor">#ffffe6</color>
 
-    <!-- Max visible notification icons -->
-    <integer name="config_maxVisibleNotificationIcons">6</integer>
-    <integer name="config_maxVisibleNotificationIconsOnLock">7</integer>
-
     <!-- Show mic or phone affordance on Keyguard -->
     <bool name="config_keyguardShowLeftAffordance">true</bool>
 
@@ -35,5 +31,4 @@
 
     <!-- Power Menu Columns in Portrait Mode -->
     <integer name="power_menu_max_columns">4</integer>
-
 </resources>
