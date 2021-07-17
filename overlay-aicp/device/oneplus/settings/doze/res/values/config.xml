@@ -15,4 +15,5 @@
 -->
 <resources>
     <string name="vendorPickupSensor" translatable="false">oneplus.sensor.op_motion_detect</string>
+    <string name="vendorPocketSensor" translatable="false">oneplus.sensor.infrared.proximity</string>
 </resources>
